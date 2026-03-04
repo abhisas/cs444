@@ -1,6 +1,7 @@
 # CS444 Deep Learning for Computer Vision
 
 Spring 2025, University of Illinois at Urbana Champaign
+
 MP 1 - Linear Classfiers
 
 MP 2 - Neural Network from Scratch
